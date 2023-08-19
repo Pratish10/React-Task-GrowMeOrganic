@@ -1,0 +1,22 @@
+[
+  {
+    "department": "Customer Service",
+    "sub_departments": ["Support", "Customer Success"]
+  },
+  {
+    "department": "Design",
+    "sub_departments": ["Graphic Design", "Product Design", "Web Design"]
+  },
+  {
+    "department": "Engineering",
+    "sub_departments": ["Frontend", "Backend", "Devops"]
+  },
+  {
+    "department": "Marketing",
+    "sub_departments": ["Social Media", "Content", "Analytics"]
+  },
+  {
+    "department": "Sales",
+    "sub_departments": ["Inside Sales", "Outside Sales"]
+  }
+]
